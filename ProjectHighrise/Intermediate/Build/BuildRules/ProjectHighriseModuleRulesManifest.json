@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\Project-Highrise\\ProjectHighrise\\Source\\ProjectHighrise\\ProjectHighrise.Build.cs",
+		"D:\\Unreal Projects\\Project-Highrise\\ProjectHighrise\\Source\\ProjectHighrise.Target.cs",
+		"D:\\Unreal Projects\\Project-Highrise\\ProjectHighrise\\Source\\ProjectHighriseEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
