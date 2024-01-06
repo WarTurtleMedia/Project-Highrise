@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\project-highrise\\projecthighrise\\source\\projecthighrise\\projecthighrise.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\project-highrise\\projecthighrise\\intermediate\\build\\win64\\x64\\projecthighriseeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\project-highrise\\projecthighrise\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projecthighrise\\definitions.projecthighrise.h",
+            "d:\\unreal projects\\project-highrise\\projecthighrise\\source\\projecthighrise\\projecthighrise.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

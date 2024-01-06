@@ -11,6 +11,8 @@
     <None Include="..\..\Source\ProjectHighriseEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\ProjectHighrise.png" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +31,12 @@
     <Filter Include="Source\ProjectHighrise">
       <UniqueIdentifier>{7B32E0C1-FB82-32BB-A62B-8381366ACDFF}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ProjectHighrise\PlayerCharacter.cpp">
+      <Filter>Source\ProjectHighrise</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectHighrise\PlayerCharacter.h">
+      <Filter>Source\ProjectHighrise</Filter>
+    </ClInclude>
     <None Include="..\..\Source\ProjectHighrise\ProjectHighrise.Build.cs">
       <Filter>Source\ProjectHighrise</Filter>
     </None>

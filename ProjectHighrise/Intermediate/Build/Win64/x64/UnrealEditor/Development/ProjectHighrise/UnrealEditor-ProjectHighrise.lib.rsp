@@ -7,6 +7,9 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\Unreal Projects\Project-Highrise\ProjectHighrise\Intermediate\Build\Win64\x64\ProjectHighriseEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Unreal Projects\Project-Highrise\ProjectHighrise\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectHighrise\PlayerCharacter.gen.cpp.obj"
+"D:\Unreal Projects\Project-Highrise\ProjectHighrise\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectHighrise\ProjectHighrise.init.gen.cpp.obj"
+"D:\Unreal Projects\Project-Highrise\ProjectHighrise\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectHighrise\PlayerCharacter.cpp.obj"
 "D:\Unreal Projects\Project-Highrise\ProjectHighrise\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectHighrise\ProjectHighrise.cpp.obj"
 "D:\Unreal Projects\Project-Highrise\ProjectHighrise\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectHighrise\Default.rc2.res"
 /OUT:"D:\Unreal Projects\Project-Highrise\ProjectHighrise\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectHighrise\UnrealEditor-ProjectHighrise.lib"
